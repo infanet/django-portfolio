@@ -1,1 +1,1 @@
-# django4-portfolio
+# django-portfolio
